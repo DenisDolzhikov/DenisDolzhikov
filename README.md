@@ -60,3 +60,9 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
+
+<div align="right">
+
+  ![](https://komarev.com/ghpvc/?username=DenisDolzhikov&style=flat-square)
+  
+</div>
