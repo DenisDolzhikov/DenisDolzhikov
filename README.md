@@ -12,8 +12,8 @@
 ### About me
 
 - :frowning_man: I'm currently learning **Full Stack** tech, oriented on **JS/TS** stack
-- :raising_hand_man: Known about my experiences [CV]()
-- :sassy_man: Reach me by [telegram](https://t.me/denisdolzhikov), [email](denis-dolzhikov-dev@yandex.ru)
+- :clipboard: Known about my experiences [CV]()
+- :envelope: Reach me by [telegram](https://t.me/denisdolzhikov), [email](denis-dolzhikov-dev@yandex.ru)
 - :earth_asia: I read and a little speak English
 
 ### Tech stack and tools
