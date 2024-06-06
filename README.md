@@ -42,6 +42,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenisDolzhikov&theme=react" />
 </div>
 
+### My Codewars stats
+
+<div align="center">
+
+[![codewars](https://www.codewars.com/users/denisdolzhikov/badges/large)](https://www.codewars.com/users/denisdolzhikov)
+
+</div>
+
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
