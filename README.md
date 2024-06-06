@@ -2,20 +2,25 @@
   <h1>Hi there, I'm Denis</h1>
   <h3>Front-End Developer from Russia (Izhevsk)</h3>
 </div>
+
 <div id="socials" align="center">
   
   <a href="https://t.me/denisdolzhikov">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Мой телеграм" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Мой телеграм" alt="My telegram" />
   </a>
-  
   <a href="mailto:denis-dolzhikov-dev@yandex.ru">
-    <img src="https://img.shields.io/badge/Yandex&#32;mail-red?style=for-the-badge&logo=yandex&logoColor=white" alt="Моя рабочая почта" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="My email" />
+  </a>
+  <a href="https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FaeykCORbSFX0z23NAWUK0oR0U8IqFg76fDRRG3N31i5WovB4WiqizouskovAlJgBq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%94%D0%BE%D0%BB%D0%B6%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%94%D0%B5%D0%BD%D0%B8%D1%81%20CV.pdf">
+    <img src="https://img.shields.io/badge/My&#32;cv-2CA5E0?style=for-the-badge&logo=readdotcv&logoColor=#111111" alt="My CV" />
   </a>
 
-  <a href="https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FaeykCORbSFX0z23NAWUK0oR0U8IqFg76fDRRG3N31i5WovB4WiqizouskovAlJgBq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%94%D0%BE%D0%BB%D0%B6%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%94%D0%B5%D0%BD%D0%B8%D1%81%20CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/My&#32;CV-blue?style=for-the-badge&logo=CV&logoColor=white" alt="Мое резюме" />
-  </a>
+</div>
 
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=DenisDolzhikov&style=flat-square)
+  
 </div>
 
 ### About me
@@ -68,10 +73,4 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</div>
-
-<div align="right">
-
-  ![](https://komarev.com/ghpvc/?username=DenisDolzhikov&style=flat-square)
-  
 </div>
