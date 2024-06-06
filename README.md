@@ -39,3 +39,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenisDolzhikov&theme=react" />
 </div>
 
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
