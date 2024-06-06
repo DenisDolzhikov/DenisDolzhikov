@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Denis</h1>
-  <h3>Front-End Developer from Izhevsk</h3>
+  <h3>Front-End Developer from Russia (Izhevsk)</h3>
 </div>
 <div id="socials" align="center">
   <a href="https://t.me/denisdolzhikov">
