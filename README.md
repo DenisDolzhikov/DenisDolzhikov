@@ -16,7 +16,7 @@
 - :sassy_man: Reach me by [telegram](https://t.me/denisdolzhikov), [email](denis-dolzhikov-dev@yandex.ru)
 - :earth_asia: I read and a little speak English
 
-### Teach stack and tools
+### Tech stack and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="ts" width="40" height="40" />&nbsp;
