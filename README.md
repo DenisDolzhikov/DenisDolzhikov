@@ -16,7 +16,7 @@
 - :envelope: Reach me by [telegram](https://t.me/denisdolzhikov), [email](denis-dolzhikov-dev@yandex.ru)
 - :earth_asia: I read and a little speak English
 
-### Tech stack
+### :computer: Tech stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="ts" width="40" height="40" />&nbsp;
@@ -32,14 +32,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="nginx" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="github" width="40" height="40" />&nbsp;
 
-### Tools
+### :hammer_and_wrench: Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="windows 11" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux ubuntu" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" width="40" height="40" />&nbsp;
 
-### My activity stats
+### :gear: My activity stats
 
 <div id="stat" align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenisDolzhikov&theme=react" />
