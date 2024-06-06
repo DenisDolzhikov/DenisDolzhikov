@@ -9,7 +9,7 @@
   </a>
   
   <a href="mailto:denis-dolzhikov-dev@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Моя рабочая почта" />
+    <img src="https://img.shields.io/badge/Yandex-red?style=for-the-badge&logo=email&logoColor=white" alt="Моя рабочая почта" />
   </a>
 
 </div>
